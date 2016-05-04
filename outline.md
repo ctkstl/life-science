@@ -5,24 +5,24 @@ permalink: /outline/
 ---
 
 1. Introduction to Living Things
-  1. What Is Life?
-  2. Classifying Life
-  3. Domains and Kingdoms
-  4. Evolution and Classification
+   1. What Is Life?
+   2. Classifying Life
+   3. Domains and Kingdoms
+   4. Evolution and Classification
 2. Introduction to Cells
-  1. Discovering Cells
-  2. Looking Inside Cells
-  3. Chemical Compounds in Cells
-  4. The Cell in Its Environment
+   1. Discovering Cells
+   2. Looking Inside Cells
+   3. Chemical Compounds in Cells
+   4. The Cell in Its Environment
 3. Cell Processes and Energy
-  1. Photosynthesis
-  2. Cellular Respiration
-  3. Cell Division
+   1. Photosynthesis
+   2. Cellular Respiration
+   3. Cell Division
 4. Genetics: The Science of Heredity
-  1. What Is Heredity?
-  2. Probability and Heredity
-  3. Patterns of Inheritance
-  4. Chromosomes and Inheritance
+   1. What Is Heredity?
+   2. Probability and Heredity
+   3. Patterns of Inheritance
+   4. Chromosomes and Inheritance
 5. DNA: The Code of Life
   1. The Genetic Code
   2. How Cells Make Proteins
