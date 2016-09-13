@@ -14,6 +14,7 @@ permalink: /outline/
    2. Looking Inside Cells
    3. Chemical Compounds in Cells
    4. The Cell in Its Environment
+     (EndoExoCytosis)[https://www.youtube.com/watch?v=UsA0pZbPcOU]
 3. Cell Processes and Energy
    1. Photosynthesis
    2. Cellular Respiration
