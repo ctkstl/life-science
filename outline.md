@@ -45,11 +45,15 @@ permalink: /outline/
    3. Plant Structures
    4. Plant Reproduction
    5. Plant Responses and Growth
+      [germination and thigmotropism](https://www.youtube.com/watch?v=eu_l80m7K2o#t=223.665029)
+      thigomotropism videos [venus fly trap](https://www.youtube.com/watch?v=O7eQKSf0LmY)
+      [vines growing](https://www.youtube.com/watch?v=dTljaIVseTc)
    6. Plants in Everyday Life
 9. Introduction to Animals
    1. What Is and Animal?
    2. Animal Body Plans
    3. Introduction to Invertebrates
+      octopus videos
    4. Introduction to Vertebrates
    5. Vertebrate Diversity
 10. Animal Life Processes
