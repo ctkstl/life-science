@@ -49,6 +49,7 @@ permalink: /outline/
       thigomotropism videos [venus fly trap](https://www.youtube.com/watch?v=O7eQKSf0LmY)
       [vines growing](https://www.youtube.com/watch?v=dTljaIVseTc)
    6. Plants in Everyday Life
+      [peat bog formation](http://4.bp.blogspot.com/-dYzLwp0_fTQ/T5F_nAJDaQI/AAAAAAAAAM8/Bx6ILn-ybWo/s1600/raised_bog_formation.gif)
 9. Introduction to Animals
    1. What Is and Animal?
    2. Animal Body Plans
