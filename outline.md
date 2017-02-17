@@ -57,6 +57,7 @@ permalink: /outline/
       octopus videos
    4. Introduction to Vertebrates
    5. Vertebrate Diversity
+      * Show Scientific American article January 2017, shows birds evolved from dinosaurs.
 10. Animal Life Processes
     1. Skeletons and Muscles
     2. The Nervous System
