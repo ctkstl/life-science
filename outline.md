@@ -83,6 +83,8 @@ permalink: /outline/
     1. The Nervous System
     2. The Endocrine System
     3. The Male and Female Reproductive Systems
+      * [Egg and sperm under microscope](https://www.youtube.com/watch?v=fO4UWj01Gx8)
+      * [sperm swimming](https://www.youtube.com/watch?v=HFYHC0Zfw4w)
     4. Pregnancy and Birth
 14. Fighting Disease
     1. Infectious Disease
