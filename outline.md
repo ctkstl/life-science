@@ -96,6 +96,8 @@ permalink: /outline/
     1. Living Things and the Environment
     2. Populations
     3. Interactions Among Living Things
+      * [octopus Camouflage](https://www.youtube.com/watch?time_continue=85&v=eS-USrwuUfA)
+      * [Wolves in Yellowstone](https://www.youtube.com/watch?v=ysa5OBhXz-Q)
     4. Changes in Communities
 16. Ecosystems and Biomes
     1. Energy Flow in Ecosystems
