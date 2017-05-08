@@ -97,6 +97,7 @@ permalink: /outline/
     2. Populations
     3. Interactions Among Living Things
       * [octopus Camouflage](https://www.youtube.com/watch?time_continue=85&v=eS-USrwuUfA)
+      * [NatGeo Octopus](http://channel.nationalgeographic.com/wild/videos/octopus-camouflage/)
       * [Wolves in Yellowstone](https://www.youtube.com/watch?v=ysa5OBhXz-Q)
     4. Changes in Communities
 16. Ecosystems and Biomes
