@@ -12,6 +12,8 @@ permalink: /outline/
 2. Introduction to Cells
    1. Discovering Cells
    2. Looking Inside Cells
+      * [http://www.sheppardsoftware.com/health/anatomy/cell/cell_tutorial.htm](Cell structures game)
+      * [http://www.sheppardsoftware.com/health/anatomy/cell/plant_cell_game.htm](plant cell)
    3. Chemical Compounds in Cells
    4. The Cell in Its Environment
      (EndoExoCytosis)[https://www.youtube.com/watch?v=UsA0pZbPcOU]
