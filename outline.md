@@ -16,7 +16,7 @@ permalink: /outline/
       * [http://www.sheppardsoftware.com/health/anatomy/cell/plant_cell_game.htm](plant cell)
    3. Chemical Compounds in Cells
    4. The Cell in Its Environment
-     (EndoExoCytosis)[https://www.youtube.com/watch?v=UsA0pZbPcOU]
+     (EndoExoCytosis)[https://www.youtube.com/watch?v=mv6Ehv06mXY]
 3. Cell Processes and Energy
    1. Photosynthesis
    2. Cellular Respiration video: https://www.youtube.com/watch?v=3XIyweZg6Sw
